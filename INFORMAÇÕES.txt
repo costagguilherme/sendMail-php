@@ -1,0 +1,7 @@
+
+#external_send_mail
+C:/xampp/external_send_mail
+
+#send_mail
+C:/xampp/htdocs/help_desk
+
